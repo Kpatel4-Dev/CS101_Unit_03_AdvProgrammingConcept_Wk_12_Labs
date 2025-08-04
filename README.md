@@ -6,7 +6,7 @@ You'll explore real-world applications and enhance your coding fluency through h
 ### ✅ What to Complete
 - 1 Python Labs
     * [ ] Lab06: File Processing 
-        ##### 📌 Lab 6 FileIO Instructions: [Lab 6: File Input Output](Unit03_AdvProgramming/Lab06/Lab06_Instruction_README.md)
+        ##### 📌 Lab 6 FileIO Instructions: [Lab 6: File Input Output](Lab_06/FileIO_Formatted_README.txt)
 + Practice Exercises/Examples from FileInputOutput_ExsDemos 
   ---
 ### 📂 Where to Submit
